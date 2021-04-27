@@ -1,2 +1,1 @@
-# student_information_managersys
-基于QT的学生一站式信息管理系统
+hello world
